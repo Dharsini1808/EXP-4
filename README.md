@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | DHARSINI N| **Reg. No.:** |26017960 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |22/11/2026 | **Batch / Section:** | |
 
 ---
 
